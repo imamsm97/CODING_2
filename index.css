@@ -1,0 +1,8 @@
+
+h2{font-size: 25px;color:rgb(179, 179, 110);font-style:italic;text-transform: uppercase;
+display:flex;
+justify-content: center;}
+.title{color:antiquewhite}
+.header{display: flex;justify-content:flex-end}
+.page{padding-right: 10px;}
+.judul{display: flex;justify-content: center;flex-direction: column;al;align-items: center;}
